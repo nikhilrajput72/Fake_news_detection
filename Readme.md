@@ -25,5 +25,5 @@ With the rise of misinformation across digital platforms, the need for automated
 | Pickle          | Model and vector serialization          |
 | Regex & String  | Text cleaning and formatting            |
 
-## File Structure
+
 
